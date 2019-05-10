@@ -1,1 +1,1 @@
-This folder contains an alorithm that calculates the number of elapsed days from from the begining of the year till the user specified date. h
+This folder contains an alorithm that calculates the number of elapsed days from from the begining of the year till the user specified date. User inputs the current date and the alogrithm calculates the number of days that have passed since the begining of the year. 
