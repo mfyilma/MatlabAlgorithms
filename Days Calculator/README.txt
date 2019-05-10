@@ -1,0 +1,1 @@
+This folder contains an alorithm that calculates the number of elapsed days from from the begining of the year till the user specified date. h
