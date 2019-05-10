@@ -1,0 +1,1 @@
+This folder contains an alogrithm that finds the smallest postive real number that can  be used in matlab.
