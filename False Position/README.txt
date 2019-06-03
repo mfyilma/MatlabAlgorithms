@@ -1,1 +1,1 @@
-This folder contains a program that was coded to find the root of a given function using the false position method. The user would input a function and parameters/bounds and the algorithm find a root. 
+This folder contains a program that was coded to find the root of a given function using the false position method. The user would input a function and parameters/bounds and the algorithm finds a root of the function. 
