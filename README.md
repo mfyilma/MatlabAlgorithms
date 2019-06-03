@@ -1,9 +1,8 @@
-# Mech105Algorithms
-All the alogrithms developed in matlab in the Spring 2019 Mech105 class
+MATLAB Algorithms
+All the alogrithms developed in matlab in the Spring 2019 
 Contains: 
-Days Elapsed calculator, 
-Homework 1( parts a,b and c),  
-False position algortihm, 
+Days Elapsed calculator,   
+False position method algortihm, 
 LU Factorization algorithm,
-Machine Epsilon, 
+Machine Epsilon caculator, 
 Simpsons Method algorithm 
